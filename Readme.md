@@ -18,10 +18,10 @@
 
 ## 🚀 Cài đặt
 
-### 1. Clone source code
+### 1. Clone source code(bỏ qua nếu tải file .zip)
 
 ```bash
-git clone https://github.com/yourusername/ai-chatbot-app.git
+git clone [https://github.com/yourusername/ai-chatbot-app.git](https://github.com/viettrung23/Chatbot.git)
 cd ai-chatbot-app
 ```
 
