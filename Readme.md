@@ -18,12 +18,19 @@
 
 ## 🚀 Cài đặt
 
-### 1. Clone source code(bỏ qua nếu tải file .zip)
+### 1. Tải các file cần thiết bằng 1 trong 2 cách:
+
+#### 1.1 Clone code từ github
 
 ```bash
 git clone https://github.com/viettrung23/Chatbot.git
 cd Chatbot
 ```
+
+#### 1.2 Tải folder .zip
+
+Giải nén và di chuyển đến đường dẫn chứa các file
+Mở Command Prompt của đường dẫndẫn
 
 ### 2. Tạo môi trường ảo (tuỳ chọn nhưng nên dùng)
 
