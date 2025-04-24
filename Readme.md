@@ -21,8 +21,8 @@
 ### 1. Clone source code(bỏ qua nếu tải file .zip)
 
 ```bash
-git clone [https://github.com/yourusername/ai-chatbot-app.git](https://github.com/viettrung23/Chatbot.git)
-cd ai-chatbot-app
+git clone https://github.com/viettrung23/Chatbot.git
+cd Chatbot
 ```
 
 ### 2. Tạo môi trường ảo (tuỳ chọn nhưng nên dùng)
