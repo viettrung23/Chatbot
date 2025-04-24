@@ -29,8 +29,8 @@ cd Chatbot
 
 #### 1.2 Tải folder .zip
 
-Giải nén và di chuyển đến đường dẫn chứa các file
-Mở Command Prompt của đường dẫndẫn
+- Giải nén và di chuyển đến đường dẫn chứa các file.
+- Mở Command Prompt của đường dẫn.
 
 ### 2. Tạo môi trường ảo (tuỳ chọn nhưng nên dùng)
 
